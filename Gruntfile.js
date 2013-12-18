@@ -315,9 +315,7 @@ module.exports = function (grunt) {
                 dot: true,
                 cwd: '<%= yeoman.app %>/styles',
                 dest: '.tmp/styles/',
-                src: ['{,*/}*.css', 
-                      'bower_components/font-awesome/css/*.*'
-                ]
+                src: '{,*/}*.css'
             }
         },
 
