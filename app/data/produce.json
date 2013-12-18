@@ -1,0 +1,29 @@
+{
+    "produce": [
+        {
+            "name": "Beets",
+            "description": "Earthy flavor, meaty texture, and a ton of sweetness. Good source of minerals and vitamins, and a definate energy booster.",
+            "img": "images/beets.jpg"
+        },
+        {
+            "name": "Cranberries",
+            "description": "Earthy flavor, meaty texture, and a ton of sweetness. Good source of minerals and vitamins, and a definate energy booster.",
+            "img": "images/cranberries.jpg"
+        },
+        {
+            "name": "Leeks",
+            "description": "Earthy flavor, meaty texture, and a ton of sweetness. Good source of minerals and vitamins, and a definate energy booster.",
+            "img": "images/leeks.jpg"
+        },
+        {
+            "name": "Pears",
+            "description": "Earthy flavor, meaty texture, and a ton of sweetness. Good source of minerals and vitamins, and a definate energy booster.",
+            "img": "images/pears.jpg"
+        },
+        {
+            "name": "Winter Squash",
+            "description": "Earthy flavor, meaty texture, and a ton of sweetness. Good source of minerals and vitamins, and a definate energy booster.",
+            "img": "images/wintersquash.jpg"
+        }
+    ]
+}
