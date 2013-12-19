@@ -1,1 +1,0 @@
-"use strict";$(function(){console.log("ready"),$("a").mouseenter(function(){$("i",this).fadeIn(100)}),$("a").mouseleave(function(){$("i",this).fadeOut(100)})});
